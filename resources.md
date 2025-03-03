@@ -7,11 +7,11 @@ permalink: /resources/
 This page contains resources to help you understand AI.
 
 
-## Articles
+## Understanding Intelligence
 
-## Videos
-
-## Books
+## Applying Intelligence
 
 ## Research
+
+## Policy and Society
 
