@@ -32,9 +32,14 @@ header_pages:
  - about.md
 
 # Build settings
-theme: modernist
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
 
 # Exclude from processing.
 # The following items will not be processed, by default.
