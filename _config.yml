@@ -27,9 +27,9 @@ url: "https://robertdtodd.github.io" # the base hostname & protocol for your sit
 twitter_username: robertdtodd
 github_username:  robertdtodd
 header_pages:
- - about.md
  - resources.md
  - experiments.md
+ - about.md
 
 # Build settings
 theme: minima
