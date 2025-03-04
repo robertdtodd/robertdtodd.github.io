@@ -3,7 +3,7 @@
 title: "Rethinking Intelligence"
 email: "robertdtodd@berkeley.edu"
 description: "Rethinking Intelligence is a site dedicated to promoting understanding of artifical intelligence."
-baseurl: "/home" 
+baseurl: "" 
 url: "https://robertdtodd.github.io"
 twitter_username: robertdtodd
 github_username:  robertdtodd
