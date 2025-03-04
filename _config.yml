@@ -1,17 +1,13 @@
 
-title: Rethinking Intelligence
-email: robertdtodd@berkeley.edu
-description: >- # this means to ignore newlines until "baseurl:"
- Rethinking Intelligence is a site dedicated to promoting understanding of artifical intelligence.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://robertdtodd.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# Site Settings
+title: "Rethinking Intelligence"
+email: "robertdtodd@berkeley.edu"
+description: "Rethinking Intelligence is a site dedicated to promoting understanding of artifical intelligence."
+baseurl: "/home" 
+url: "https://robertdtodd.github.io"
 twitter_username: robertdtodd
 github_username:  robertdtodd
 
-header_pages:
- - resources.md
- - experiments.md
- - about.md
 
 include: ["_pages"]
 
@@ -24,9 +20,25 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-archives
+
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+    - year
+    - month
+    - day
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+    
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
 
 minimal_mistakes_skin: 
-  - "air"
+  - "dirt"
 
 defaults:
   # _posts
@@ -39,6 +51,19 @@ defaults:
       author_profile: true
       share: true
       related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+  # _foo
+  - scope:
+      path: ""
+      type: foo
+    values:
+      layout: single
+
 
 date_format: "%Y-%b-%d"
 
