@@ -26,13 +26,13 @@ In 1930, economist John Maynard Keynes predicted that by 2030 workers would only
 
 Keynes was less accurate in his forecast of how the gains in productivity would be shared. While productivity and wages tracked together reasonably well until the 1970s - meaning the gains in productivity were being shared with workers - they have since diverged dramatically. 
 
-![Figure 1](/assets/images/prod-v-wages.png)
+![Figure 1](/images/prod-v-wages.png)
 
 I'm aware that there are many economic factors that have changed since the 1970s including the growth of global trade, the decline of labor unions and seismic shifts in the ability of corporations to influence public policy. So let's just say that **one of the other interesting things that happened** in the 70's and 80s was the development and commercializtion of computer hardware and software as tools to do some basic forms of thinking work - even if that thinking was mostly math and record-keeping and retrieval.
 
 To put it more plainly, since the dawn of the information age, benefits from the growth in productivity due to the automation of mental or intellectual effort have not been shared with workers.
 
-###How much work can be automated with AI?
+### How much work can be automated with AI?
 
 I think of any work that does not involve the creation, manipulation or transport of phyical goods (matter, atoms) as information work. Claude (3.7 Sonnet) and I estimate that in the U.S. that amounts to about 60-65% of all workers.
 
