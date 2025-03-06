@@ -8,7 +8,9 @@ url: "https://robertdtodd.github.io"
 twitter_username: robertdtodd
 github_username:  robertdtodd
 
-
+keep_files:
+  - images
+  
 include: ["_pages"]
 
 # Build settings
@@ -21,6 +23,9 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-archives
+
+logo: "/assets/images/logo-close-nobg.png"
+
 
 jekyll-archives:
   enabled:

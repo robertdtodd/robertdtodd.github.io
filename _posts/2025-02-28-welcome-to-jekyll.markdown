@@ -1,7 +1,7 @@
 ---
 layout: single
 title:  "Post Toasties"
-date:   2025-02-28 14:46:42 -0800
+date:   2025-02-28 
 categories: 
   - blog
 tags: 
