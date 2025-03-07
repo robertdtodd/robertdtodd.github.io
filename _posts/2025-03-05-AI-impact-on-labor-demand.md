@@ -5,12 +5,12 @@ date:   2025-03-05
 categories: 
   - blog
 tags: 
-- employment
+  - employment
 ---
 
-### C'est la meme chose.
+### Spoiler Alert: it likely won't matter.
 
-I see a lot of writing on this topic that leans strongly on "I feel" when discussing the likelihood of AI having a net positive or negative impact on the demand for human labor, often influenced it seems by the author's general personal tendency toward pessimism or optimism. 
+I see a lot of writing on the topic of whether AI will enhance human intelligence and create new roles for human workers or replace human labor altogether, that leans strongly on "I feel" when discussing the likelihood of AI having a net positive or negative impact, often influenced by the author's general personal tendency toward pessimism or optimism. 
 
 There are certainly reasons to be optimistic:
 

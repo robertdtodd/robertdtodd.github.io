@@ -1,0 +1,37 @@
+
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/default";
+@import "minimal-mistakes";
+
+// Your custom styles below
+.resources-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 2rem;
+}
+
+.resources-table th,
+.resources-table td {
+  padding: 0.75rem;
+  border-bottom: 1px solid #e9ecef;
+}
+
+.resources-table th {
+  background-color: #f8f9fa;
+  text-align: left;
+}
+
+.badge {
+  display: inline-block;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.25rem;
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+
+.badge-article { background-color: #007bff; color: white; }
+.badge-video { background-color: #dc3545; color: white; }
+.badge-tutorial { background-color: #28a745; color: white; }

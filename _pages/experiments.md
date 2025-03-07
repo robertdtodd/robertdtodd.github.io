@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Experiments"
+title: "Working with AI"
 permalink: /experiments/
 header:
 image: /assets/images/logo-close-nobg.png
