@@ -1,9 +1,9 @@
 main:
-  - title: "Thinking About AI"
+  - title: "Thinking"
     url: /
-  - title: "Understanding AI"
+  - title: "Understanding"
     url: /resources/
-  - title: "Working with AI"
+  - title: "Working"
     url: /experiments/
   - title: "About"
     url: /about/

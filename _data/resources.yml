@@ -1,9 +1,9 @@
 - category: How It Works
   description: How machine intelligence is made and how it works
   resources:
-    - name: How Transformers WOrk
+    - name: How Transformers Work
       url: https://youtu.be/wjZofJX0v4M?si=_3y5USfMYlkKFYck
-      type: Video
+      type: video
       description: A visually rich explanation of how LLMs are trained
     - name: Neural Networks Explained
       url: https://example.com/neural-networks

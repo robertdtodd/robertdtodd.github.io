@@ -7,6 +7,8 @@ baseurl: ""
 url: "https://robertdtodd.github.io"
 twitter_username: robertdtodd
 github_username:  robertdtodd
+repository: "robertdtodd/github.io"
+
 
 keep_files:
   - images
