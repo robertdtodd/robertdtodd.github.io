@@ -12,11 +12,10 @@ repository: "robertdtodd/github.io"
 # site author
 author:
   name     : "Robert Todd"
-  avatar   : "images/RT-headshot-2025-small.png"
+  avatar   : "images/RT-headshot-2025-xsm.png"
   bio      : "I am a learning-technology pioneer who helps people understand and collaborate with machine intelligence."
   location : "San Francisco, CA"
   email: "robertdtodd@berkeley.edu"
-
 
 
 keep_files:
@@ -73,6 +72,7 @@ defaults:
       type: pages
     values:
       layout: single
+      author_profile: true
   # _foo
   - scope:
       path: ""
