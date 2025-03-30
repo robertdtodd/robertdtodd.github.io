@@ -5,9 +5,18 @@ email: "robertdtodd@berkeley.edu"
 description: "Rethinking Intelligence is a site dedicated to promoting understanding of artifical intelligence."
 baseurl: "" 
 url: "https://robertdtodd.github.io"
-twitter_username: robertdtodd
+bluesky_username: robertdtodd
 github_username:  robertdtodd
 repository: "robertdtodd/github.io"
+
+# site author
+author:
+  name     : "Robert Todd"
+  avatar   : "images/RT-headshot-2025-small.png"
+  bio      : "I am a learning-technology pioneer who helps people understand and collaborate with machine intelligence."
+  location : "San Francisco, CA"
+  email: "robertdtodd@berkeley.edu"
+
 
 
 keep_files:
