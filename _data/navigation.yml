@@ -5,5 +5,7 @@ main:
     url: /resources/
   - title: "Working"
     url: /experiments/
+  - title: "Teaching"
+    url: /teaching/
   - title: "About"
     url: /about/

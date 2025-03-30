@@ -1,19 +1,204 @@
-- category: How It Works
-  description: How machine intelligence is made and how it works
+- category: Explainers
+  description: How things work and stuff
   resources:
     - name: How Transformers Work
-      url: https://youtu.be/wjZofJX0v4M?si=_3y5USfMYlkKFYck
-      type: video
-      description: A visually rich explanation of how LLMs are trained
-    - name: Neural Networks Explained
-      url: https://example.com/neural-networks
-      type: video
-      description: Visual explanation of how neural networks function
-
-- category: Big Thinkers
-  description: Real-world use cases and implementations
+      url: https://youtu.be/wjZofJX0v4M?si=s6UM6O7Y7BVAfmAc
+      type: video explainer
+      source: 3Blue1Brown
+      description: Visual explanation of how neural networks function (27 min)
+ 
+- category: People in AI
+  description: Influential figures in the field of machine intelligence
   resources:
-    - name: Building Your First NLP Model
-      url: https://example.com/nlp-tutorial
-      type: tutorial
-      description: Step-by-step guide to creating a text classifier
+    - name: Geoffrey Hinton
+      url: https://youtu.be/qrvK_KuIeJk?si=IOF2Zc_b6oot0rhz
+      type: video interview 
+      source: 60 minutes (2023)
+      description: 60 Minutes Interview (13 min)
+
+    - name: Geoffrey Hinton
+      url: https://youtu.be/iHCeAotHZa4?si=Do4ZlUnyzssa3Vpq
+      type: video lecture
+      source: Schwartz Reisman Institute (2024)
+      description: Will digital intelligence replace biological intelligence? (1 hr 20 min)
+
+    - name: Mustafa Sueyman & Yuval Noah Harari
+      url: https://youtu.be/7JkPWHr7sTY?si=3J5ach8CxPyzu3_m
+      type: video interview
+      source: The Economist (2023)
+      description: An investor and a philosopher discuss the potential risks and benefits of AI for humanity (45 min)
+   
+    - name: Dario Amodei
+      url: https://youtu.be/gAaCqj6j5sQ?si=Zx4tkJY7MwaQN4ct
+      type: video interview
+      source: The Logan Bartlett Show (2023)
+      description: CEO of Anthropic and former scientist at OpenAI in a wide-ranging discussion of Anthropic and where AI is headed (1 hr 50 min)
+
+    - name: Fei-Fei Li and Geoffrey Hinton
+      url: https://youtu.be/E14IsFbAbpI?si=HUB7VES-crfbPSFx&t=449
+      type: video interview (2023)
+      source: Radical Ventures
+      description: Two pioneers of AI discuss the creation of imagenet, the future of AI and the importance of human-centered AI (1 hr 48 min)
+
+    - name: Mira Murati
+      url: https://youtu.be/KpWNCQnHg20?si=1QvhDnK2anVCnvlr
+      type: video interview
+      source: A16z (2023)
+      description: CTO of OpenAI discusses the development of GPT. (50 min)
+
+    - name: Lucy Suchman
+      url: https://youtu.be/TBWloCNU028?si=tNX-4v1XeUoKrwXM
+      type: video interview
+      source: AI Now Institute (2023)
+      description: A professor of anthropology of science and technology discusses AI as a means of control. (30 min)
+
+    - name: Eliezer Yudkowsky
+      url: https://youtu.be/Yd0yQ9yxSYY?si=LqpXmqN9kLb1lERn
+      type: video lecture
+      source: TED (2023)
+      description: A brief, empahatic prediction of doom from one of the pioneers of AI safety. (15 min)
+
+    - name: Stuart Russell
+      url: https://youtu.be/KsZI5oXBC0k?si=Blw25lnXQjjJYUcU
+      type: video interview
+      source: Lex Fridman Podcast (2018)
+      description: Wide-ranging discussion with UC Berkeley Professor and pioneer of deep learning. (2 hr 30 min)
+
+    - name: Stuart Russell
+      url: https://youtu.be/z4M6vN31Vc0?si=u-xhMVDRlWPY_GbJ
+      type: video lecture
+      source: Norweigan AI Research Consortium (2024)
+      description: AI, what if we succeed? Russell discusses the requirements for, and implications of success in creating AGI. (45 min)
+
+
+
+
+- category: Books
+  description: Books about intelligence, machine and human (💚favs)
+  resources: 
+    - name: Co-Intelligence - Living and Working with AI
+      url: https://a.co/d/gGN9n4p
+      type: book
+      source: Mollick (2024)
+      description: 💚 Mollick explores living and working with AI. Both thought-provoking and practical.
+
+
+    - name: Why Machines Learn - The Elegant Math Behind AI
+      url: https://a.co/d/hhWVv8V
+      type: book
+      source : Anathaswamy (2024)
+      description: Machine learning is math. Anathaswamy does a pretty fantastic job of explaining the important math behind machine learning to non-mathematicians.
+
+
+    - name: Nexus - A Brief History of Information Networks from the Stone Age to AI
+      url: https://a.co/d/c7WqJK2
+      type: book
+      source: Harari (2024)
+      description: We need big thinkers like Harari. Some of the things he simplifies to make his big ideas fit in a book damage his arguments, but the chapters on the spread of information about witches are a brilliant cautionary tale about the power of information worth the price of the book.
+
+
+    - name: A Brief History of Intelligence - Evolution, AI, and the Five Breakthroughs That Made Our Brains
+      url: https://a.co/d/c7WqJK2
+      type: book
+      source: Bennett (2024)
+      description: 💚 A fascinating review and useful packaging of decades of science on the evolution of intelligence in animals, that provides insight into the creation of machine intelligence.
+
+
+    - name: Determined - A Science of Life without Free Will
+      url: https://a.co/d/cmYf2LC
+      type: book
+      source: Sapolsky (2023)
+      description: 💚 The evidence Sapolsky provides for the deterministic nature of human behavior is beyond compelling. If we are machines, what is 'artificial' about machine intelligence? One of my hero-scientists and favorite science writers.
+
+
+    - name: Understanding Deep Learning
+      url: https://a.co/d/cZsz4dc
+      type: book
+      source: Prince (2023)
+      description: A textbook, but full of really helpful original illustrations that help understanding how neural networks work.
+
+
+    - name: A Thousand Brains - A New Theory of Intelligence
+      url: https://a.co/d/8s1YwzX
+      type: book
+      source: Hawkins (2021)
+      description: 💚 Hawkins' theory of how intelligence is encoded in the human brain resonated strongly with my own (less-well articulated) theories about how humans learn and have (surprise) clear and compelling parallels with what we are learning from building machine intelligence.
+
+
+    - name: A Brief History of Artificial Intelligence - What It Is, Where We Are, Where We Are Going
+      url: https://a.co/d/279O3yL
+      type: book
+      source: Woolridge (2021)
+      description: A very nice, comprehensive history of the various schools of AI development and their successes and failures.
+
+
+    - name: Rule of the Robots - How Artificial Intelligence Will Transform Everything
+      url: https://a.co/d/7nGPZ0o
+      type: book
+      source: Ford (2021)
+      description: If you think AI isn't going to have massive impact on the market for human labor, you haven't read this book.
+
+
+    - name: The Alignment Problem - Machine Learning and Human Values
+      url: https://a.co/d/3OCK6zh
+      type: book
+      source: Christian (2020)
+      description: 💚 A writer tries to become a judge for the Loebner prize (annual Turing test contest) and along the way asks a lot of questions about what is special about humans.
+
+
+    - name: Human Compatible - Artificial Intelligence and the Problem of Control
+      url: https://a.co/d/3OCK6zh
+      type: book
+      source: Russell (2019)
+      description: From one of the real pioneers of AI, comes this cautionary tale about our lack of understanding of how to ensure thinking machines will have our best interests at heart.
+
+
+    - name: The Knowledge Illusion - Why We Never Think Alone
+      url: https://a.co/d/0Pj7O3q
+      type: book
+      source: Sloman, Fernbach (2017)
+      description: An in depth look at how bad humans are at knowing what we know and how much of our knowledge is encoded in the world and other people.
+
+
+    - name: Life 3.0 - Being Human in the Age of Artificial Intelligence
+      url: https://a.co/d/jcJ3dUM
+      type: book
+      source: Tegmark (2017)
+      description: A MIT professor explains artificial intelligence and ruminates about the ways things may go in the future that got here way faster than he (and most people) expected.
+
+
+    - name: The Master Algorithm - How the Quest for the Ultimate Learning Machine will Remake Our World
+      url: https://a.co/d/4xTtEuB
+      type: book
+      source: Domingos (2015)
+      description: Pioneer of AI presents a somewhat-verbose but fascinating review of why machine learning is the most effective approach to AI and how the different ML schools will need to converge to create the one algorithm that can solve everything.
+
+
+    - name: Probably Approximately Correct - Nature's Algorithms for Learning and Prospering in a Complex World
+      url: hhttps://a.co/d/5QAO3Bx
+      type: book
+      source: Valiant (2014)
+      description: Brilliant treatise on the computational nature of learning and evolution, and the algorithms that are at the heart of machine learning and intelligence.
+
+
+    - name: Superintelligence - Paths, Dangers, Strategies
+      url: https://a.co/d/7lsL5M8
+      type: book
+      source: Bostrom (2014)
+      description: A philosopher examines the various scientific methods that might lead to superintelligence and the implications for the future of humanity.
+
+
+    - name: The Most Human Human - What Talking to Computers Teaches Us About What It Means to Be Alive
+      url: https://a.co/d/gBzHsSH
+      type: book
+      source: Christian (2011)
+      description: 💚 The author attempts to land a role as a human for the Loebner Prize, an annual competition built around the Turing Test with AI chatbots. Along the way, he explores the question of what makes humans special. One of my favorite NF books.
+
+
+    - name: The Information - A History, A Theory, A Flood
+      url: https://a.co/d/8OVuaB0
+      type: book
+      source: Gleick (2011)
+      description: 💚 Tech historian James Gleick eloquently recounts the history of information and why it is, in fact, everything. Matter is Information? What? Seriously, so good.
+     
+      

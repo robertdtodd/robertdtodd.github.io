@@ -2,6 +2,7 @@
 layout: single
 title: Understanding AI
 permalink: /resources/
+classes: wide
 ---
 
 {% for category in site.data.resources %}
@@ -13,6 +14,7 @@ permalink: /resources/
       <tr>
         <th>Resource</th>
         <th>Type</th>
+        <th>Source</th>
         <th>Description</th>
       </tr>
     </thead>
@@ -21,6 +23,7 @@ permalink: /resources/
         <tr>
           <td><a href="{{ resource.url }}">{{ resource.name }}</a></td>
           <td><span class="badge badge-{{ resource.type }}">{{ resource.type }}</span></td>
+          <td>{{ resource.source}}</td>
           <td>{{ resource.description }}</td>
         </tr>
       {% endfor %}
