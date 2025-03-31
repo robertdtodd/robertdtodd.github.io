@@ -12,8 +12,8 @@ repository: "robertdtodd/github.io"
 # site author
 author:
   name     : "Robert Todd"
-  avatar   : "images/RT-headshot-2025-xsm.png"
-  bio      : "I am a learning-technology pioneer who helps people understand and collaborate with machine intelligence."
+  avatar   : "assets/images/RT-headshot-2025-xsm.png"
+  bio      : "I am a learning-technology pioneer who helps people use, understand and collaborate with machine intelligence."
   location : "San Francisco, CA"
   email: "robertdtodd@berkeley.edu"
 

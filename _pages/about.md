@@ -9,7 +9,7 @@ I built this site to help people (like me) understand AI. Machine intelligence i
 
 
 ### Me
-![c'est moi](../images/RT-headshot-2025-small.png)
+![c'est moi](../assets/images/RT-headshot-2025-small.png)
 
 I am a learning-technology pioneer who built one of the first commercial elearning offerings (1996), one of the first SaaS learning platforms (2000), and the first global learning technology function at McKinsey & Co. (2008). I've invented, shaped and launched half a dozen learning platforms and over 300 learning programs.
 
