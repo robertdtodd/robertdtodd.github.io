@@ -1,0 +1,42 @@
+- category: LLMs
+  description: Chat access to large language models
+  resources:
+    - name: Claude
+      url: https://claude.ai
+      type: Large Language Model
+      source: Anthropic
+      description: Constitutionally-aligned LLM. Excels at writing text and code.
+
+    - name: ChatGPT
+      url: https://chat.openai.com
+      type: Large Language Model
+      source: OpenAI
+      description: The original and most well-known LLM. A multi-modal model that supports, text, code, image, voice and video.
+
+    - name: gemini
+      url: https://gemini.google.com
+      type: Large Language Model
+      source: Google
+      description: A multi-modal model that supports text and images. Known for its advanced reasoning capabilities.
+
+
+- category: Image and Video Generation
+  description: Tools for generating images and videos from text prompts
+  resources:
+    - name: Midjourney
+      url: https://midjourney.com
+      type: Image Generation
+      source: Midjourney
+      description: A popular tool for generating high-quality images from text prompts. Known for its artistic style.
+
+    - name: DALL-E
+      url: https://openai.com/dall-e-2
+      type: Image Generation
+      source: OpenAI
+      description: Generates images from text prompts with a focus on realism and detail.
+
+    - name: RunwayML
+      url: https://runwayml.com
+      type: Video Generation
+      source: Runway
+      description: A tool for generating and editing videos using AI, including text-to-video capabilities.

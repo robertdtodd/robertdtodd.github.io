@@ -1,12 +1,12 @@
 ---
 layout: single
-title: Understanding AI
-permalink: /resources/
+title: Working with AI
+permalink: /working/
 classes: wide
 ---
-Build your understanding of machine (and human) intelligence.
+Get hands-on with these machine learning powered tools.
 
-{% for category in site.data.resources %}
+{% for category in site.data.tools %}
   <h2>{{ category.category }}</h2>
   <p>{{ category.description }}</p>
   

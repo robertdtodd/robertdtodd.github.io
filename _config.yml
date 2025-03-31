@@ -15,7 +15,7 @@ author:
   avatar   : "assets/images/RT-headshot-2025-xsm.png"
   bio      : "I am a learning-technology pioneer who helps people use, understand and collaborate with machine intelligence."
   location : "San Francisco, CA"
-  email: "robertdtodd@berkeley.edu"
+  email    : "robertdtodd@berkeley.edu"
 
 
 keep_files:
@@ -34,7 +34,7 @@ plugins:
   - jekyll-gist
   - jekyll-archives
 
-logo: "/images/logo-close-nobg.png"
+logo: "/assets/images/logo-close-nobg.png"
 
 
 jekyll-archives:

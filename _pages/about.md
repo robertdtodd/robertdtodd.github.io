@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ### This Site
-I built this site to help people (like me) understand AI. Machine intelligence is our most consequential invention. It has the potential to help us create a better world for everyone - **if** we make good choices. The first step in making good choices is understanding what is at stake. To do that, we need to rethink what intelligence is and what role it plays in creating the world we all live in.
+This work-in-progress site is a collection of content and resources to help people better understand AI. Machine intelligence is humanity's most consequential invention. It has the potential to help us create a better world for everyone. To do that, we must rethink the goals we have set for technology and its role in society. This rethinking requires informed participation by more than just a few of us. To participate we must understand.
 
 
 ### Me
