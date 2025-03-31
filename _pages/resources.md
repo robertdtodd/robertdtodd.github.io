@@ -4,6 +4,7 @@ title: Understanding AI
 permalink: /resources/
 classes: wide
 ---
+Resources to help you build your understanding of machine (and human) intelligence.
 
 {% for category in site.data.resources %}
   <h2>{{ category.category }}</h2>
