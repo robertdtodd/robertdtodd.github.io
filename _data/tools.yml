@@ -5,22 +5,40 @@
       url: https://claude.ai
       type: Large Language Model
       source: Anthropic
-      description: Constitutionally-aligned LLM. Excels at writing text and code.
+      description: Claude is my go-to LLM. Though I often go to GPT for comparison I consistently get more useful content and better thinking on tough problems with Claude. I definitely vibe with Claude's tone and style, and it more consistently intuits what I'm asking for.
 
     - name: ChatGPT
       url: https://chat.openai.com
       type: Large Language Model
       source: OpenAI
-      description: The original and most well-known LLM. A multi-modal model that supports, text, code, image, voice and video.
+      description: The original and most well-known LLM. GPT is more multi-modal than claude. GPT used to be a must have because of integrated web search but now that search is part of Claude I have less reason to go there.
 
     - name: gemini
       url: https://gemini.google.com
       type: Large Language Model
       source: Google
-      description: A multi-modal model that supports text and images. Known for its advanced reasoning capabilities.
+      description: Gemini is a highly-regarded multi-modal model with impressive stats. On my admittedly infrequent uses I have been unimpressed with its insight and creativity.
+
+    - name: Deep Seek
+      url: https://deepseek.ai
+      type: Large Language Model
+      source: Deep Seek
+      description: (I have not yet used it enough to have a point of view)
+      
+    - name: Meta AI
+      url: https://www.meta.ai/
+      type: Large Language Model
+      source: Meta
+      description: Meta's LLM is a strong, multi-modal contender, and Yann Lecun is one of the clear pioneers of AI, but Meta is at the bottom of my Tech Trust list so I try to avoid their products whenever possible. Their recent decision to end DEI practics and abandon content moderation reenforces this decision.
+
+    - name: Grok 
+      url: https://x.ai
+      type: Large Language Model
+      source: x.ai
+      description: This is Elon Musk's model. Elon was an early investor in OpenAI but the clear lack of ethical behavior and authoritarian attitudes of Musk make this one an untrustworthynon-starter. Use at your own risk.
 
 
-- category: Image and Video Generation
+- category: Image and Video Generation (this section is not uet well-curated.)
   description: Tools for generating images and videos from text prompts
   resources:
     - name: Midjourney
