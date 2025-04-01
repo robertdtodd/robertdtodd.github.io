@@ -33,6 +33,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-archives
+  - jekyll-seo-tag 
 
 logo: "assets/images/logo-close-nobg.png"
 

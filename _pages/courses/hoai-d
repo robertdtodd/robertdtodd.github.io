@@ -1,0 +1,33 @@
+---
+layout: single
+title: "Hands-On AI - Deeper"
+permalink: /hoai-d/
+---
+
+# Hands-On AI - Going Deeper (mar 2025)
+
+{% for category in site.data.course-resources %}
+  <h2>{{ category.category }}</h2>
+  <p>{{ category.description }}</p>
+  
+  <table class="resources-table">
+    <thead>
+      <tr>
+        <th>Resource</th>
+        <th>Type</th>
+        <th>Source</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      {% for resource in category.course-resources %}
+        <tr>
+          <td><a href="{{ resource.url }}">{{ resource.name }}</a></td>
+          <td><span class="badge badge-{{ resource.type }}">{{ resource.type }}</span></td>
+          <td>{{ resource.source}}</td>
+          <td>{{ resource.description }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  </table>
+{% endfor %}

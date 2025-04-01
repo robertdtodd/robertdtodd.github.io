@@ -1,0 +1,8 @@
+- category: hoai-d
+  description: Hands-On AI - Going Deeper
+  resources:
+    - name: How Transformers Work
+      url: https://youtu.be/wjZofJX0v4M?si=s6UM6O7Y7BVAfmAc
+      type: video explainer
+      source: 3Blue1Brown
+      description: Visual explanation of how neural networks function (27 min)
