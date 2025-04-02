@@ -8,6 +8,7 @@ tags:
   - alignment
   - economy
 ---
+Let's fix this before we get permanently deprioritized.
 
 ## Priorities Matter
 
