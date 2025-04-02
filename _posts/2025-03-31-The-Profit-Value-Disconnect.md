@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "The Profit Value Disconnect"
+title:  "The Profit-Value Disconnect"
 date:   2025-03-31 
 categories: 
   - blog
