@@ -13,7 +13,7 @@ repository: "robertdtodd/github.io"
 author:
   name     : "Robert Todd"
   avatar   : "assets/images/RT-headshot-2025-xsm.png"
-  bio      : "I am a learning-technology pioneer who helps people use, understand and collaborate with machine intelligence."
+  bio      : "I am a learning-technology pioneer who helps people understand and collaborate with machine intelligence."
   location : "San Francisco, CA"
   email    : "robertdtodd@berkeley.edu"
 
