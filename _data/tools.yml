@@ -17,28 +17,28 @@
       url: https://gemini.google.com
       type: Large Language Model
       source: Google
-      description: Gemini is a highly-regarded multi-modal model with impressive stats. On my admittedly infrequent uses I have been unimpressed with its insight and creativity.
+      description: Google is a technical leader in AI development and Gemini is a highly-regarded multi-modal model with impressive stats. I was unimpressed by the quality of its output from earlier versions and my occasional return visits have so far not changed my perspective.
 
     - name: Deep Seek
       url: https://deepseek.ai
       type: Large Language Model
       source: Deep Seek
-      description: (I have not yet used it enough to have a point of view)
+      description: (I haven't used it enough yet to have an informed point of view)
       
     - name: Meta AI
       url: https://www.meta.ai/
       type: Large Language Model
       source: Meta
-      description: Meta's LLM is a strong, multi-modal contender, and Yann Lecun is one of the clear pioneers of AI, but Meta is at the bottom of my Tech Trust list so I try to avoid their products whenever possible. Their recent decision to end DEI practics and abandon content moderation reenforces this decision.
+      description: Meta's LLM is a strong, multi-modal contender, and Yann Lecun is one of the pioneers of AI. That said, Meta is at the bottom of my Tech Trust list so I try to avoid their products whenever possible. Their recent decision to end DEI practices and abandon content moderation reenforces this decision.
 
     - name: Grok 
       url: https://x.ai
       type: Large Language Model
       source: x.ai
-      description: This is Elon Musk's model. Elon was an early investor in OpenAI but the clear lack of ethical behavior and authoritarian attitudes of Musk make this one an untrustworthynon-starter. Use at your own risk.
+      description: This is Elon Musk's model. Elon was an early investor in OpenAI, but his unethical behavior and authoritarian attitudes make Grok an untrustworthy non-starter. Use at your own risk.
 
 
-- category: Image and Video Generation (this section is not uet well-curated.)
+- category: Image and Video Generation (this section is not yet well-curated.)
   description: Tools for generating images and videos from text prompts
   resources:
     - name: Midjourney
