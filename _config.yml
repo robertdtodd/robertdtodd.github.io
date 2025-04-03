@@ -38,6 +38,13 @@ plugins:
 logo: "assets/images/logo-close-nobg.png"
 
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-51PZDP241T"
+    anonymize_ip: false # default
+
+
 jekyll-archives:
   enabled:
     - categories
