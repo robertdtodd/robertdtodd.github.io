@@ -5,7 +5,9 @@ permalink: /about/
 ---
 
 ### This Site
-This work-in-progress site is a collection of content and resources to help people better understand AI. Machine intelligence is humanity's most consequential invention. It has the potential to help us create a better world for everyone. To do that, we must rethink the goals we have set for technology and its role in society. This rethinking requires informed participation by more than just a few of us. To participate we must understand.
+This site is a growing collection of content and resources for people trying to understand AI. 
+
+Machine intelligence is humanity's most consequential invention. It has the potential to help us create a better world for everyone. To do that, we must rethink the goals we have set for technology and its role in society. This rethinking requires informed participation by more than just a few of us. To participate we must understand.
 
 
 ### Me

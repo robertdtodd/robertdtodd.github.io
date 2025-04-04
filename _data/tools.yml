@@ -5,15 +5,15 @@
       url: https://claude.ai
       type: Large Language Model
       source: Anthropic
-      description: Claude is my go-to LLM. Though I often go to GPT for comparison I consistently get more useful content and better thinking on tough problems with Claude. I definitely vibe with Claude's tone and style, and it more consistently intuits what I'm asking for.
+      description: Claude is my go-to LLM. I consistently get useful content and better thinking on tough problems with Claude. I definitely vibe with Claude's tone and style, and it more consistently intuits what I'm asking for.
 
     - name: ChatGPT
       url: https://chat.openai.com
       type: Large Language Model
       source: OpenAI
-      description: The original and most well-known LLM. GPT is more multi-modal than claude. GPT used to be a must have because of integrated web search but now that search is part of Claude I have less reason to go there.
+      description: The original and most well-known LLM. Chat GPT is more multi-modal than Claude and my regualr second opionion. OpenAI adds new features to ChatGPT more quickly, but I find performance to be inconsistent. Not surprising given the size of their user base.
 
-    - name: gemini
+    - name: Gemini
       url: https://gemini.google.com
       type: Large Language Model
       source: Google
