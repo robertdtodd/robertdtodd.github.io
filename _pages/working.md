@@ -4,7 +4,7 @@ title: Working with AI
 permalink: /working/
 classes: wide
 ---
-Get hands-on with these machine learning powered tools.
+Any list of LLMs and other ML model-powered tools and their capabilities is certain to be out of date as soon as it is published. These tables are primarily shortcuts for students and new LLM users.  Check the 'last updated' date for confidence.
 
 {% for category in site.data.tools %}
   <h2>{{ category.category }}</h2>

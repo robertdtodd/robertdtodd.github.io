@@ -1,5 +1,5 @@
 - category: LLMs
-  description: Chat access to large language models
+  description: Chat access to large language models (updated- mar 2025)
   resources:
     - name: Claude
       url: https://claude.ai
