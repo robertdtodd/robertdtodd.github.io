@@ -76,6 +76,13 @@
 - category: Books
   description: Books about intelligence, machine and human (💚favs)
   resources: 
+    - name: Careless People
+      url: https://a.co/d/iegqojP
+      type: book
+      source: Wynn-Williams (2025)
+      description: A former public-policy director at Facebook gives a clear-eyed account of the malevolent force that results when greed and power are amplified by machine learning algorithms.
+
+
     - name: Co-Intelligence - Living and Working with AI
       url: https://a.co/d/gGN9n4p
       type: book

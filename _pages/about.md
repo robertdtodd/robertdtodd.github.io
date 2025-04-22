@@ -17,6 +17,6 @@ I am a learning-technology pioneer who built one of the first commercial elearni
 
 My ability to learn is what made all of that possible. All of us have that same ability. It's what makes us human. What's unique about me is just the unique series of experiences I learned from. That's how I came to be me and you came to be you. 
 
-Learning is the most consequential human skill. It creates intelligence of all kinds, and intelligence is responsible for all of human civilization and culture. 
+Learning is the foundational human skill. It creates intelligence of all kinds, and intelligence is responsible for all of human civilization and culture. 
 
 Learning is also how we build machine intelligence. How human and machine intelligence evolve together over the next few decades will change the story of our species dramatically. 

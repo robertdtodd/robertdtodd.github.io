@@ -24,7 +24,7 @@ keep_files:
 include: ["_pages"]
 
 # Build settings
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes 
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
@@ -43,6 +43,15 @@ analytics:
   google:
     tracking_id: "G-51PZDP241T"
     anonymize_ip: false # default
+
+atom_feed:
+  hide: true
+
+search: true
+lunr:
+  search_within_pages: true
+
+
 
 
 jekyll-archives:
