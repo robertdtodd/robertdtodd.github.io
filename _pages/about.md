@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ### This Site
-This site is a growing collection of content and resources for people trying to understand AI. 
+This site is a contains resources for people trying to understand and use artificial intelligence. 
 
 Machine intelligence is humanity's most consequential invention. It has the potential to help us create a better world for everyone. To do that, we must rethink the goals we have set for technology and its role in society. This rethinking requires informed participation by more than just a few of us. To participate we must understand.
 
