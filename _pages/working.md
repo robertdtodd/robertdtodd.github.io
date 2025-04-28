@@ -6,6 +6,9 @@ classes: wide
 ---
 Any list of LLMs and other ML model-powered tools and their capabilities is certain to be out of date as soon as it is published. These tables are primarily shortcuts for students and new LLM users.  Check the 'last updated' date for confidence.
 
+## Experiments
+[Here is an archive](rethinkingintelligence.ai/pages/experiments) of things I've made in collaboration with machine intelligence.
+
 {% for category in site.data.tools %}
   <h2>{{ category.category }}</h2>
   <p>{{ category.description }}</p>
@@ -31,3 +34,5 @@ Any list of LLMs and other ML model-powered tools and their capabilities is cert
     </tbody>
   </table>
 {% endfor %}
+
+Experiments

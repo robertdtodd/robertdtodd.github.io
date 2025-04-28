@@ -45,7 +45,7 @@
       url: https://midjourney.com
       type: Image Generation
       source: Midjourney
-      description: A popular tool for generating high-quality images from text prompts. Known for its artistic style.
+      description: Probably the most popular tool for generating high-quality images from text prompts. Known for its artistic style.
 
     - name: DALL-E
       url: https://openai.com/dall-e-2
@@ -58,3 +58,15 @@
       type: Video Generation
       source: Runway
       description: A tool for generating and editing videos using AI, including text-to-video capabilities.
+
+    - name: Synthesia 
+      url: https://www.synthesia.io
+      type: Realistic Video Avatars
+      source: Synthesia
+      description: A platform for creating AI-generated videos with customizable avatars and text-to-speech capabilities.
+
+    - name: Firefly
+      url: https://firefly.adobe.com
+      type: Image Generation
+      source: Adobe
+      description: Adobe's AI-powered image generation tool, integrated with their Creative Cloud suite. If you use other Adobe tools, this makes a lot of sense. 

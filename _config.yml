@@ -52,6 +52,20 @@ lunr:
   search_within_pages: true
 
 
+collections:
+  experiments:
+    output: true
+    permalink: /experiments/:path/
+
+defaults:
+  # _experiments
+  - scope:
+      path: ""
+      type: experiments
+    values:
+      layout: single
+      author_profile: true
+      share: true
 
 
 jekyll-archives:
