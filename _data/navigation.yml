@@ -1,9 +1,9 @@
 main:
-  - title: "Thinking"
+  - title: "Blog"
     url: /
-  - title: "Understanding"
+  - title: "Learn"
     url: /resources/
-  - title: "Working"
+  - title: "Tools"
     url: /working/
   - title: "Teaching"
     url: /teaching/
