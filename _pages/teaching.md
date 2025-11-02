@@ -9,6 +9,8 @@ image:
 I teach and give talks on living and working with machine intelligence, helping people understand  the implications of living in the age of AI.
 
 ## Courses
+[Tracking the Progress of AI](https://olli.berkeley.edu/course/2940)
+
 [Hands-On AI: Going Deeper](https://olli.berkeley.edu/course/2805) (In-progress)
 
 [Hands-on](https://olli.berkeley.edu/course/2761)
