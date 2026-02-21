@@ -37,6 +37,7 @@ plugins:
 
 logo: "assets/images/logo-close-nobg.png"
 og_image: "/assets/images/logo-close-nobg.png"
+google_site_verification: "LDpU-IedCW0op8S1sAhsGkfEkjYPTRDOWaEcDgSxKKs"
 
 analytics:
   provider: "google-gtag"
