@@ -1,11 +1,11 @@
 ---
 layout: single
 title:  "How AI Impacts Teams"
-date:   2025-04-02 
-categories: 
-  - article
-tags: 
-  - article
+date:   2025-04-02
+excerpt: "Research with 700+ professionals at Procter & Gamble shows AI teammates improve performance, provide expertise, and enhance the experience of working in teams."
+categories:
+  - blog
+tags:
   - collaboration
   - Harvard
   - Mollick

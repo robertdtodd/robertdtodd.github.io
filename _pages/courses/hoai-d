@@ -20,7 +20,7 @@ permalink: /hoai-d/
       </tr>
     </thead>
     <tbody>
-      {% for resource in category.course-resources %}
+      {% for resource in category.resources %}
         <tr>
           <td><a href="{{ resource.url }}">{{ resource.name }}</a></td>
           <td><span class="badge badge-{{ resource.type }}">{{ resource.type }}</span></td>

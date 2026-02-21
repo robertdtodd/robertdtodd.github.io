@@ -1,10 +1,11 @@
 ---
 layout: single
 title:  "The Escalating Cost of Carelessness"
-date:   2025-04-22 
-categories: 
+date:   2025-04-22
+excerpt: "Sarah Wynn-Williams' account of her years at Facebook is a must-read warning: careless leadership amplified by algorithms caused enormous damage, and AI will make that worse."
+categories:
   - blog
-tags: 
+tags:
   - leadership
   - Meta
   - governance

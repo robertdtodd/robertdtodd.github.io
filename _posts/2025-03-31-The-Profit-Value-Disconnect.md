@@ -1,10 +1,11 @@
 ---
 layout: single
 title:  "The Profit-Value Disconnect"
-date:   2025-03-31 
-categories: 
+date:   2025-03-31
+excerpt: "The gap between profit generation and genuine human value creation is already wide. Superintelligent AI optimizing for financial returns could make it irreversible."
+categories:
   - blog
-tags: 
+tags:
   - alignment
   - economy
 ---

@@ -2,8 +2,6 @@
 layout: single
 title: "Teaching about AI"
 permalink: /teaching/
-header:
-image: 
 ---
 
 I teach and give talks on living and working with machine intelligence, helping people understand  the implications of living in the age of AI.

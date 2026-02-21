@@ -2,8 +2,8 @@
 # Site Settings
 title: "Rethinking Intelligence"
 email: "robertdtodd@berkeley.edu"
-description: "Rethinking Intelligence is a site dedicated to promoting understanding of artifical intelligence."
-baseurl: "" 
+description: "Rethinking Intelligence is a site dedicated to promoting understanding of artificial intelligence."
+baseurl: ""
 url: "https://rethinkingintelligence.ai"
 bluesky_username: robertdtodd
 github_username:  robertdtodd
@@ -24,7 +24,7 @@ keep_files:
 include: ["_pages"]
 
 # Build settings
-remote_theme: mmistakes/minimal-mistakes 
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
@@ -33,10 +33,10 @@ plugins:
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-archives
-  - jekyll-seo-tag 
+  - jekyll-seo-tag
 
 logo: "assets/images/logo-close-nobg.png"
-
+og_image: "/assets/images/logo-close-nobg.png"
 
 analytics:
   provider: "google-gtag"
@@ -51,6 +51,7 @@ search: true
 lunr:
   search_within_pages: true
 
+permalink: /blog/:year/:month/:day/:title/
 
 collections:
   experiments:
@@ -58,6 +59,23 @@ collections:
     permalink: /experiments/:path/
 
 defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      show_date: true
+      layout: single
+      author_profile: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
   # _experiments
   - scope:
       path: ""
@@ -78,39 +96,13 @@ jekyll-archives:
   layouts:
     category: archive-taxonomy
     tag: archive-taxonomy
-    
+
   permalinks:
     category: /categories/:name/
     tag: /tags/:name/
 
-minimal_mistakes_skin: 
+minimal_mistakes_skin:
   - "dirt"
-
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      show_date: true
-      layout: single
-      author_profile: true
-      share: true
-      related: true
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-  # _foo
-  - scope:
-      path: ""
-      type: foo
-    values:
-      layout: single
-
 
 date_format: "%Y-%b-%d"
 

@@ -1,10 +1,11 @@
 ---
 layout: single
 title:  "Will AI Augment or Replace Human Labor?"
-date:   2025-03-05 
-categories: 
+date:   2025-03-05
+excerpt: "History shows that productivity gains from automation haven't been shared with workers. AI will likely accelerate that trend, not reverse it."
+categories:
   - blog
-tags: 
+tags:
   - employment
 ---
 

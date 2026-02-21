@@ -1,10 +1,11 @@
 ---
 layout: single
 title:  "Learning Is Not What You Think - Unpacking Humanity's Superpower"
-date:   2025-03-15 
-categories: 
+date:   2025-03-15
+excerpt: "Learning is far more than memorizing facts — it's a multilayered biological, cognitive, and cultural process that makes us uniquely human, and AI is helping us see why."
+categories:
   - blog
-tags: 
+tags:
   - learning
   - culture
   - humans

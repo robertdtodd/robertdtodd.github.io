@@ -14,12 +14,12 @@ The site helps people understand and collaborate with machine intelligence. It c
 
 ## Posts
 
-- [Will AI Augment or Replace Human Labor?](https://rethinkingintelligence.ai/blog/2025/03/05/AI-impact-on-labor-demand.html)
-- [Why Write? Skills in the Age of AI](https://rethinkingintelligence.ai/a-world-with-ai/2025/03/05/why-write.html)
-- [Learning Is Not What You Think — Unpacking Humanity's Superpower](https://rethinkingintelligence.ai/blog/2025/03/15/learning-is-more.html)
-- [The Profit-Value Disconnect](https://rethinkingintelligence.ai/blog/2025/03/31/The-Profit-Value-Disconnect.html)
-- [How AI Impacts Teams](https://rethinkingintelligence.ai/article/2025/04/02/ai-impact-on-teams-mollick.html)
-- [The Escalating Cost of Carelessness](https://rethinkingintelligence.ai/blog/2025/04/22/The-Escalating-Cost-of-Carelessness.html)
+- [Will AI Augment or Replace Human Labor?](https://rethinkingintelligence.ai/blog/2025/03/05/AI-impact-on-labor-demand/): History shows productivity gains from automation haven't been shared with workers. AI will likely accelerate that trend.
+- [Why Write? Skills in the Age of AI](https://rethinkingintelligence.ai/blog/2025/03/05/why-write/): Now that AI writes better than most humans, the real value of writing may be less about the words and more about discovering what you actually think.
+- [Learning Is Not What You Think — Unpacking Humanity's Superpower](https://rethinkingintelligence.ai/blog/2025/03/15/learning-is-more/): Learning is a multilayered biological, cognitive, and cultural process — and AI is helping us see what makes it uniquely human.
+- [The Profit-Value Disconnect](https://rethinkingintelligence.ai/blog/2025/03/31/The-Profit-Value-Disconnect/): The gap between profit and genuine human value creation is already wide. AI optimizing for financial returns could make it irreversible.
+- [How AI Impacts Teams](https://rethinkingintelligence.ai/blog/2025/04/02/ai-impact-on-teams-mollick/): Research with 700+ professionals at Procter & Gamble shows AI teammates improve performance and the experience of working together.
+- [The Escalating Cost of Carelessness](https://rethinkingintelligence.ai/blog/2025/04/22/The-Escalating-Cost-of-Carelessness/): A review of Sarah Wynn-Williams' account of Facebook — a warning that careless leadership amplified by algorithms causes enormous damage, and AI will make that worse.
 
 ## Sitemap
 
