@@ -1,0 +1,26 @@
+# Rethinking Intelligence
+
+> A site dedicated to promoting understanding of artificial intelligence, written by Robert Todd — a learning-technology pioneer based in San Francisco, CA.
+
+The site helps people understand and collaborate with machine intelligence. It covers AI's impact on work, learning, society, and how to think critically about the technology shaping our world.
+
+## Pages
+
+- [About](https://rethinkingintelligence.ai/about/): About this site and its mission.
+- [Understanding AI (Resources)](https://rethinkingintelligence.ai/resources/): Curated resources to build understanding of machine and human intelligence.
+- [Working with AI](https://rethinkingintelligence.ai/working/): Links to AI tools and results of experiments working with LLMs.
+- [Teaching about AI](https://rethinkingintelligence.ai/teaching/): Information about talks and teaching on living and working with machine intelligence.
+- [Experiments](https://rethinkingintelligence.ai/experiments/): Hands-on experiments with AI tools and models.
+
+## Posts
+
+- [Will AI Augment or Replace Human Labor?](https://rethinkingintelligence.ai/blog/2025/03/05/AI-impact-on-labor-demand.html)
+- [Why Write? Skills in the Age of AI](https://rethinkingintelligence.ai/a-world-with-ai/2025/03/05/why-write.html)
+- [Learning Is Not What You Think — Unpacking Humanity's Superpower](https://rethinkingintelligence.ai/blog/2025/03/15/learning-is-more.html)
+- [The Profit-Value Disconnect](https://rethinkingintelligence.ai/blog/2025/03/31/The-Profit-Value-Disconnect.html)
+- [How AI Impacts Teams](https://rethinkingintelligence.ai/article/2025/04/02/ai-impact-on-teams-mollick.html)
+- [The Escalating Cost of Carelessness](https://rethinkingintelligence.ai/blog/2025/04/22/The-Escalating-Cost-of-Carelessness.html)
+
+## Sitemap
+
+- [sitemap.xml](https://rethinkingintelligence.ai/sitemap.xml)

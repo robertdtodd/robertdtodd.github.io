@@ -4,10 +4,10 @@ title: Working with AI
 permalink: /working/
 classes: wide
 ---
-Any list of LLMs and other ML model-powered tools and their capabilities is certain to be out of date as soon as it is published. These tables are primarily shortcuts for students and new LLM users.  Check the 'last updated' date for confidence.
+This page contains links to AI tools and the results of experiements working with LLMs.
 
-## Experiments
-[Here is an archive](rethinkingintelligence.ai/pages/experiments) of things I've made in collaboration with machine intelligence.
+Any list of LLMs and other ML model-powered tools and their capabilities is likely to be out of date when published. These tables are primarily shortcuts for students and new LLM users.  Check the 'last updated' date for confidence.
+
 
 {% for category in site.data.tools %}
   <h2>{{ category.category }}</h2>
@@ -35,4 +35,3 @@ Any list of LLMs and other ML model-powered tools and their capabilities is cert
   </table>
 {% endfor %}
 
-Experiments

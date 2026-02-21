@@ -70,3 +70,15 @@
       type: Image Generation
       source: Adobe
       description: Adobe's AI-powered image generation tool, integrated with their Creative Cloud suite. If you use other Adobe tools, this makes a lot of sense. 
+
+
+- category: Experiments
+  description: Example products created in collaboration with machine intelligence
+  resources:
+    - name: Internal combustion engine simulation
+      url: https://claude.ai/public/artifacts/4e8ede66-95da-4139-a72b-e79e0b959012
+      type: simulation
+      source: Claude 3.7
+      description: A 'simple' animation to help explain the basics of a four stroke internal conbustion engine. The first pass was pretty close, but through multiple iterations Claude could not see that the timing of the cycle was out of phase with the valve valves and ignition. I gave up on the 25th iteration.  PROMPT- "Can you build a visual simulation that explains the working of internal combustion engines"
+
+    - name:
