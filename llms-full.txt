@@ -1,0 +1,294 @@
+# Rethinking Intelligence — Full Text
+
+> A site dedicated to promoting understanding of artificial intelligence, written by Robert Todd — a learning-technology pioneer based in San Francisco, CA.
+
+The site helps people understand and collaborate with machine intelligence. It covers AI's impact on work, learning, society, and how to think critically about the technology shaping our world.
+
+For a summary index, see: https://rethinkingintelligence.ai/llms.txt
+For the RSS feed, see: https://rethinkingintelligence.ai/feed.xml
+
+---
+
+## Post: Will AI Augment or Replace Human Labor?
+
+URL: https://rethinkingintelligence.ai/blog/2025/03/05/AI-impact-on-labor-demand/
+Date: 2025-03-05
+Tags: employment
+Excerpt: History shows that productivity gains from automation haven't been shared with workers. AI will likely accelerate that trend, not reverse it.
+
+### Spoiler Alert: it likely won't matter.
+
+I see a lot of writing on the topic of whether AI will enhance human intelligence and create new roles for human workers or replace human labor altogether, that leans strongly on "I feel" when discussing the likelihood of AI having a net positive or negative impact, often influenced by the author's general personal tendency toward pessimism or optimism.
+
+There are certainly reasons to be optimistic:
+
+* AI can be used as a collaborator or assistant to amplify human labor
+* New technologies tend to create new job roles and categories
+* AI is a powerful tool to support humans in learning new skills
+
+But, if we are going to examine the likely impact on the demand for labor from this transformational technology, we should look at the data we have about the results of prior technological innovation.
+
+### The Benefits of Increased Productivity
+
+In 1930, economist John Maynard Keynes predicted that by 2030 workers would only need to work "three hour shifts or a 15 hour week" given the benefits of increased productivity from automation. Keynes suggested that this leisure bounty would be fueled by productivity gains of "four to eight times" in that period. JMK was spot on about the impact of automation on productivity, with BLS data showing 4-5x growth in productivity from 1947 to 2023 and 8-10x growth since 1930 as estimated in analysis by Robert J. Gordon in "The Rise and Fall of American Growth" (2016).
+
+Keynes was less accurate in his forecast of how the gains in productivity would be shared. While productivity and wages tracked together reasonably well until the 1970s — meaning the gains in productivity were being shared with workers — they have since diverged dramatically.
+
+### How much work can be automated with AI?
+
+I think of any work that does not involve the creation, manipulation or transport of physical goods (matter, atoms) as information work. Claude (3.7 Sonnet) and I estimate that in the U.S. that amounts to about 60-65% of all workers.
+
+* Professional and business services (~20% of employment)
+* Financial activities (~6%)
+* Information sector (~2%)
+* Most government workers (~15%)
+* Education and health services, excluding hands-on healthcare providers (~10%)
+* A portion of other service sectors that focus on information processing (~7-12%)
+
+The remaining 35-40% includes manufacturing, construction, transportation, hands-on healthcare, agriculture, mining, and retail roles that involve physical manipulation of objects. So, included in our estimate would be writers, lawyers, programmers, therapists, accountants and most 'managers.' It would also include physicians who are diagnosticians, but not surgeons.
+
+Whatever you call the stuff you do in the middle (thinking, analyzing, creating, deciding, planning, innovating) if your inputs and outputs are bits not atoms, you are an information worker and AI can do an appreciable and rapidly-expanding chunk of what you do. I would argue that the frontier models are already intelligent enough to do a better job at a majority of what information workers do, but there is more to actually replacing workers with AI than intelligence. There are processes and norms and systems and trust and a bunch of other momentum in organizations that will change more slowly than intelligence. In fact a good chunk of the intelligence that next-gen AI brings will likely be used for reengineering the way work gets done, not just for replacing humans with AI counterparts. The outcome, however, will be the same.
+
+### Answering the question
+
+Let's get back to the question at hand: will AI replace or augment human labor? You've probably read some version of, "I don't know if AI will replace human workers, but a human using AI will replace a human that doesn't." Gosh, if I were a machine superintelligence trying to smooth my entry into the workplace, I definitely would have designed that slogan. If we consider AI as an essential tool to make us more productive, we will use it. And if it makes me 10x more effective, where will the benefits of that productivity accrue? If history is our guide, it will not be to me/us. At least not past the rapidly-shrinking near-term.
+
+60-70% of business costs are labor, and if true or even mostly true, every business executive with a fiduciary responsibility would be irresponsible if they did not take advantage of a technology that reduced their largest operating cost by 50%. On an even more disheartening note, the current (February 2025) business/social climate is one where tech leaders have decided that their employees who were so recently their "biggest competitive advantage" are now "holding them hostage." People are a pain in the butt, they need to be motivated, they get sick, they have opinions. 50% fewer employees = 50% fewer problems.
+
+### In Conclusion
+
+Historically, gains from automation have not been shared with employees. This has been increasingly true since the development and commercialization of computing. A large chunk of work today is information 'processing.' AI represents a nearly inexhaustible supply of knowledge, unprecedented fluency and super-human stamina, and like all prior information technologies, the price of a unit of compute is steadily falling. Humans are expensive and unpredictable. Business leaders are incentivized by the size of their profits, not the size of their payroll.
+
+Unless we decide to make some significant changes in the system that is driving responsible corporate leaders to maximize profit and minimize workforce participation in the productivity that AI will bring, I see no historical precedent that justifies irrational optimism.
+
+---
+
+## Post: Why Write? Skills in the Age of AI
+
+URL: https://rethinkingintelligence.ai/blog/2025/03/05/why-write/
+Date: 2025-03-05
+Tags: skills, education
+Excerpt: Now that AI writes better than most humans, what is the real value of learning to write? It may be less about the words and more about discovering what you actually think.
+
+The article "AI Anxiety" by Harvard undergraduate Serena Jampel explores the tension between traditional writing education and the new writing capabilities of AI. As I read her well-written piece, I found myself considering a question that surfaces often in the reaction to new technologies: Is it important to preserve "old skills" when new technologies appear to replace them?
+
+### Writing is fundamental
+
+Writing is important because communication is important and because writing allows us to communicate and build a culture of ideas with other people over distance and time. But there's nothing inevitable about writing as we know it. Imagine if evolution had steered us toward a different solution for coordinating our actions and working together. Socrates was skeptical of writing as a skill and thought it would impede reasoning. Of course, the only reason we know this is because Plato wrote down his dialogues with Socrates. Consider the world before writing — a world of oral traditions, where memory and direct transmission of knowledge were paramount. The transition to writing represented not just a technological shift but a cognitive one.
+
+### Better writers have emerged
+
+Today, large language models have become substantially better at writing than humans. They demonstrate greater fluency, a broader command of stylistic modes, and more comprehensive knowledge than any individual human writer could hope to possess. With AI, it has become trivial for someone with a clear set of thoughts to produce an articulate written communication of those thoughts and ideas.
+
+Until just months ago, learning to precisely convey a point of view, perspective, and emotional state in words was a struggle. Becoming a "great writer" — someone who can deftly articulate complex ideas and concepts — has traditionally required a long, arduous journey of practice and refinement.
+
+But does that mean the skill itself is inherently important? Imagine if we developed technology enabling telepathy — the ability to directly share our thoughts, feelings, and perspectives, and to record and replay them for others. Would we still care about writing in its traditional form? Or if evolution had led us to another means of communication, perhaps pictorial or mathematical, would the communication of ideas in linear, subject-verb-object constructs seem as necessary as it does now?
+
+### The Hidden Value of Writing
+
+Experientially, what makes writing truly challenging — and perhaps represents its most valuable aspect — is that good writing requires us to figure out what we actually think. We exist in what could be called a pervasive illusion of understanding. It seems like we know what we think. We assume our thoughts are logical, well-constructed, and coherent.
+
+But this is often the trick of a brain that's profoundly adept at filling in gaps and creating an experience of completeness and continuity when neither exists. Writing is difficult because it exposes how incomplete and imperfect our knowledge and beliefs really are.
+
+When we attempt to write clearly, we encounter the fuzzy edges of our understanding. We bump against the limitations of our knowledge. We find ourselves forced to make explicit connections that had previously remained implicit — if they even existed.
+
+### The Shifting Value of Written Language
+
+The value of written language has declined precipitously in the information age. We face an overabundance of written information, and frankly, much of it is redundant and lacks substance or insight. The facility with which machine intelligence has learned to write is quickly amplifying this overabundance.
+
+Perhaps writing is yet another "what makes us uniquely human" skill that isn't really fundamental to being human — no more so than chess, Go, painting, or even empathy, all areas where AI has demonstrated capabilities that match or exceed most humans (in some narrow but rapidly expanding ways), and potentially all of us in the near future.
+
+With large language models now capable of writing clearly and fluently on countless topics, and even being insightful when given an insightful prompt, it may no longer be as important to teach people how to write as it is to teach them to understand what they actually think, why they think it and what the implications are of being a person who thinks that.
+
+We've seen this pattern before. The emergence of cheap and abundant calculators obviated the need for fluency in arithmetic, shifting educational focus from computation to higher level mathematical concepts. Similarly, AI writing tools may allow us to focus less on the mechanics of writing and more on the substance of our thoughts.
+
+### Rethinking Education in an AI World
+
+This brings us back to the central question about the purpose of a Harvard education — or any education. If the goal is to produce people who can think critically, then perhaps our methods need recalibration. The ability to generate coherent essays on a topic might be less important than having coherent ideas worth writing about.
+
+Humans created artificial intelligence. It's a human artifact, a reflection of our ingenuity and our values. It's important that we recognize the emergence of sophisticated AI writing tools as a milestone that requires some rethinking of what truly matters to us in communication and education.
+
+Most of us think we know what we think about this shifting landscape. But that might just be another one of those hallucinations our minds are so prone to — another illusion of understanding waiting to be exposed when we try to articulate our thoughts to others.
+
+Perhaps the greatest value of writing in the AI age won't be the writing itself, but the journey it takes us on — forcing us to confront what we really know, what we only think we know, and what remains to be discovered.
+
+---
+
+## Post: Learning Is Not What You Think — Unpacking Humanity's Superpower
+
+URL: https://rethinkingintelligence.ai/blog/2025/03/15/learning-is-more/
+Date: 2025-03-15
+Tags: learning, culture, humans
+Excerpt: Learning is far more than memorizing facts — it's a multilayered biological, cognitive, and cultural process that makes us uniquely human, and AI is helping us see why.
+
+Are you ready to learn?
+
+Learning is a polysemous word. A polyseme is a word that has multiple, context-dependent meanings. If the word 'polyseme' is new to you, you probably had to do a little work just there. Maybe you said the word 'out loud' in your head a few times, drawing on the patterns of pronunciation learned from other, similar words. You might have been aware of a feeling of effort, or 'cognitive load' as your brain worked to add this new combination of letters to the twenty-thousand or so others you've already mastered.
+
+That small moment of learning — that brief mental effort you expended to grasp a new word — provides a perfect window into what makes learning both ubiquitous and mysterious. The act of learning unfolded in milliseconds, involved multiple cognitive processes, and transformed the physical state of your brain. All of this happening without you being consciously aware of the mechanisms at work.
+
+## The Many Meanings of Learning
+
+When we say "I learned something," what exactly do we mean? The answer differs dramatically depending on context:
+
+"I learned her name" describes a nearly instantaneous process of committing a simple fact to memory.
+
+"I learned Python" suggests months of practice, trial and error, and the gradual building of a complex skill.
+
+"I learned to be a doctor" implies years of intensive study, supervised practice, and professional socialization.
+
+"I learned something about myself" hints at a moment of personal insight, perhaps even a transformative realization that changes how we view ourselves and our place in the world.
+
+These statements all use the same verb but describe radically different processes happening at different timescales, requiring different levels of effort, and producing different kinds of outcomes. Yet we instinctively understand each usage without confusion — a testament to how central learning is to the human experience.
+
+## The Learning Stack: From Neurons to Culture
+
+To understand the full scope of learning, it helps to visualize it as a stack of interdependent processes, each building upon the others. Crucially, at every level of this stack, what's happening is model building — we are constructing and refining predictive models of the world that help us generate new actions, behaviors, and plans.
+
+At the foundation lies the physiological level — learning as a biological process involving neural connections and synaptic plasticity. Our brains physically change when we learn, forming new connections between neurons, strengthening some pathways and weakening others. These neural changes aren't random; they're creating physical representations — models — of patterns in our environment. The molecular machinery of memory is constantly at work, transcribing proteins and reinforcing synapses, ensuring that important experiences become part of our neural architecture and predictive capacity.
+
+Above this sits the cognitive level — learning as the acquisition, processing, and application of information through attention, perception, memory, and reasoning. This is learning as most of us consciously experience it: the mental work of understanding new concepts, practicing skills, making connections between ideas, and solving problems. What we're really doing here is building and refining mental models that allow us to predict what will happen if we take specific actions, enabling us to navigate complex environments successfully.
+
+Next comes interpersonal learning — the social transmission of knowledge, skills, values, and behaviors through observation, imitation, instruction, and collaboration. Humans are uniquely skilled at learning from each other, a capacity that has allowed us to accumulate knowledge across generations. At this level, we're collaboratively building shared models of reality, aligning our individual predictions with those of others, and creating frameworks for coordinated action and understanding.
+
+At the top of the stack sits cultural learning — the creation and maintenance of shared knowledge systems, institutions, and artifacts that extend beyond individual lifespans. Libraries, universities, books, the internet — these are all manifestations of our ability to externalize learning, making it accessible across time and space. These institutions serve as repositories and transmission mechanisms for our most sophisticated collective models of how the world works, enabling each generation to build upon rather than reinvent the predictive frameworks of previous generations.
+
+## The Uniquely Human Learning Superpower
+
+When a toddler points at a fuzzy, barking four-legged animal and hears "doggy" from their parent, that single data point may be all they need to successfully identify dogs everywhere — in photos, videos, close up, far away, in different lighting conditions, small dogs, big dogs. This remarkable efficiency puts even our most advanced machine learning systems to shame.
+
+Human learning operates with an astonishing economy of input. A child can learn a new word after hearing it just once or twice. A skilled craftsperson can watch a technique being demonstrated once and begin to replicate it. A mathematician can grasp a complex proof through a single careful reading.
+
+This efficiency stems from our ability to:
+
+1. Draw on vast existing knowledge networks
+2. Abstract principles from specific examples
+3. Transfer learning across domains
+4. Contextualize new information within meaningful frameworks
+5. Generate and test hypotheses about how the world works
+
+Our learning doesn't exist in isolation — it builds upon all we've previously learned and connects to our understanding of the world, our goals, and our values.
+
+## Learning in the Age of AI
+
+As artificial intelligence increasingly demonstrates capabilities that mimic aspects of human learning, we're gaining new perspectives on what makes our own learning unique. The contrast is illuminating.
+
+Machine learning systems require enormous datasets — reviewing millions of labeled images to learn what a dog looks like, analyzing billions of web pages to generate coherent text. These systems can achieve impressive results, but they lack the efficiency, adaptability, and continuous updating that characterizes human learning.
+
+Yet AI also reminds us that learning — in its most fundamental form — is about creating models of the world that allow us to predict and navigate it successfully. The neural networks in AI systems and the neural networks in our brains both learn by adjusting connections in response to feedback, gradually improving their ability to make accurate predictions.
+
+## The Work of Learning
+
+Learning requires effort — cognitive, emotional, sometimes even physical. When our brains learn, they consume glucose. In fact, the brain accounts for 2% of the body's mass but about 20% of its energy needs. Learning causes increased glucose consumption in the hippocampus, prefrontal cortex, temporal cortex, and cerebellum.
+
+Our brain-bodies would prefer not to expend that energy because we are evolutionarily primed to conserve resources. This inherent tension — between our capacity to learn and our biological resistance to unnecessary energy expenditure — shapes how we approach learning throughout our lives.
+
+Understanding that learning always involves work helps explain both our resistance to certain kinds of learning and the satisfaction we feel when we overcome that resistance. The cognitive load experienced during learning isn't just an inconvenient side effect — it's a necessary component of the transformative power of learning.
+
+## Learning as Transformation
+
+At its most profound, learning changes who we are. It updates our model of the world and our place in it. When we truly learn something significant — whether it's a practical skill, a scientific concept, or an emotional insight — we become different people than we were before.
+
+This transformative power makes learning our most uniquely human capability. It's the foundation of our adaptability as a species, our cultural evolution, and our individual growth. It's what allows us to constantly reinvent ourselves and our societies.
+
+Next time you find yourself learning something — whether it's a new word like "polyseme," a new skill, or a new perspective — take a moment to appreciate the multilayered miracle happening in your brain. From neurons firing to cultural knowledge accumulating, learning is the superpower that makes us who we are.
+
+---
+
+## Post: The Profit-Value Disconnect
+
+URL: https://rethinkingintelligence.ai/blog/2025/03/31/The-Profit-Value-Disconnect/
+Date: 2025-03-31
+Tags: alignment, economy
+Excerpt: The gap between profit generation and genuine human value creation is already wide. Superintelligent AI optimizing for financial returns could make it irreversible.
+
+Let's fix this before we get permanently deprioritized.
+
+## Priorities Matter
+
+As a product manager for over two decades, I've made countless decisions about feature prioritization. While we discuss many factors — short-term versus long-term growth, customer retention versus acquisition, end-user needs versus buyer requirements — one factor ultimately trumps all others: profit. Products succeed when they generate revenue. Product managers who increase revenue advance; those who don't teach.
+
+This profit imperative is so fundamental to business that we rarely question it directly. Instead, we debate instrumental goals, uncertain which levers will most effectively drive financial growth. But in an era of accelerating machine intelligence, we need to confront a difficult truth: the gap between profit generation and human value creation is widening, and AI threatens to expand this chasm exponentially.
+
+## A Personal Case-Study
+
+Allow me to illustrate with a personal example. I teach adults about machine learning — how it works, practical applications, and societal implications. According to course reviews, I'm good at this, and I work hard to improve.
+
+When planning how to invest my time, I face an unfortunate choice. Activities that would genuinely benefit my students — developing new materials, designing better experiments, writing comprehensive guides, conducting and publishing research — have no impact on my income. Conversely, activities that drive revenue — search engine optimization, creating attention-grabbing social media content, recycling existing curriculum rather than updating it — provide little additional value to my students.
+
+My situation isn't unique. Throughout our economy, the correlation between revenue-generating activities and value-creating activities has weakened considerably:
+
+- Approximately 2.5% of U.S. GDP goes to advertising, with research from the Journal of Consumer Research indicating that the majority serves to manipulate rather than inform consumers.
+- According to JAMA, pharmaceutical companies spend 19% of revenue on marketing compared to 16% on research and development — prioritizing selling existing drugs over developing better ones.
+- A 2019 study in Health Affairs found that U.S. healthcare administrative costs consume 8.2% of healthcare expenditures versus 2.7% in Canada's single-payer system — a difference that represents hundreds of billions in spending that doesn't improve health outcomes.
+- Federal Reserve data shows the financial sector has grown from 2-3% of GDP in the 1950s to 7-8% today, with most growth coming from trading existing assets rather than funding new productive enterprises.
+- Bureau of Labor Statistics data demonstrates that while U.S. worker productivity has risen by approximately 62% since the 1970s, real median wages have increased by only about 17%.
+
+## Machine Learning: Optimization Optimized
+
+A colleague recently reminded me that optimizing for a single value is easier than balancing multiple objectives. This observation cuts to the heart of the challenge we face with AI. Machine learning excels at optimization — continuously refining parameters to maximize a specific, measurable outcome. Anything that doesn't directly contribute to that outcome gets systematically eliminated.
+
+Business itself already functions as "an algorithm optimizing for profit," as Berkeley professor and AI pioneer Stuart Russell aptly described. For decades, corporations have deployed machine learning to optimize business models toward financial returns, neatly coinciding with the aforementioned productivity-wage gap.
+
+What happens when we unleash superintelligent AI — built on trillions of dollars in speculative investment — to maximize returns on that investment? The already troubling divergence between profit generation and human benefit is likely to accelerate beyond our capacity to course-correct.
+
+## Alternative Paths Forward
+
+Some organizations have demonstrated that alternative models are viable. Benefit Corporations legally commit to positive impact alongside profit. Platform cooperatives like Stocksy United distribute value more equitably among contributors. Organizations like the Mozilla Foundation develop technology explicitly for public benefit.
+
+These examples remain outliers, but they illustrate that we can design systems that align financial incentives with human wellbeing — if we choose to.
+
+## Reimagining Our Fundamental Assumptions
+
+Machine intelligence represents an unprecedented resource — built upon centuries of shared human intellectual achievement. We stand at a pivotal moment: we can harness this technology to optimize ever more aggressively for profit extraction, or we can deploy it to enhance human flourishing for everyone.
+
+The latter won't happen automatically. It requires intentional redesign of economic incentives, corporate structures, and regulatory frameworks. Most urgently, it demands that we question core assumptions about what business is for and how success should be measured.
+
+This isn't naive idealism — it's pragmatism. A system that increasingly disconnects wealth creation from value creation will eventually collapse. As AI accelerates this disconnect, reconsidering our fundamental assumptions becomes not just morally necessary but practically essential.
+
+The truly naive position would be expecting different outcomes while maintaining the same incentive structures. The smart move — even if it risks appearing radical — is to redesign those incentives before superintelligent optimization makes that task impossible.
+
+---
+
+## Post: How AI Impacts Teams
+
+URL: https://rethinkingintelligence.ai/blog/2025/04/02/ai-impact-on-teams-mollick/
+Date: 2025-04-02
+Tags: collaboration, Harvard, Mollick
+Excerpt: Research with 700+ professionals at Procter & Gamble shows AI teammates improve performance, provide expertise, and enhance the experience of working in teams.
+
+How does adding AI to a team impact effectiveness?
+
+Research by the Harvard Design Institute and Ethan Mollick, working with over 700 professionals at Procter & Gamble, shows that things get better in surprising ways. The research, published as "The Cybernetic Teammate," found that having an AI on your team can increase performance, provide expertise, and improve your experience of working together.
+
+Source: "The Cybernetic Teammate" by Ethan Mollick — https://www.oneusefulthing.org/p/the-cybernetic-teammate
+
+---
+
+## Post: The Escalating Cost of Carelessness
+
+URL: https://rethinkingintelligence.ai/blog/2025/04/22/The-Escalating-Cost-of-Carelessness/
+Date: 2025-04-22
+Tags: leadership, Meta, governance
+Excerpt: Sarah Wynn-Williams' account of her years at Facebook is a must-read warning: careless leadership amplified by algorithms caused enormous damage, and AI will make that worse.
+
+### Carelessness and AI Are a Lethal Combo
+
+There are many lessons one could take away from Sarah Wynn-Williams' damning account of her years as public policy director at Facebook/Meta. Careless People is a must-read cautionary tale for people concerned about the future of a world with AI. Wynn-Williams joined Facebook smitten by the awesome promise of technology to connect and empower people in the political process. What she witnessed instead was the damage caused by greed and power amplified by machine learning algorithms.
+
+### Possible Take-Aways
+
+* Being more successful/rich/powerful than everyone is not evidence that you are smarter than everyone else.
+* The decisions made by leaders who lack moral principles tend to be bad for society at large.
+* If you can control the information people see, and the timing and frequency of that information, you can radically change individual and social behavior.
+* If you relentlessly prioritize profit and growth over all else, some will get rich, and all else will suffer.
+
+### What Meta Wants
+
+Mark Zuckerberg was in the right place at the right time with a good idea — once. His next half-a-dozen ideas were relative flops, including Facebook phones, Internet.org and the billions he spent on the metaverse he renamed his company for, and yet he is still one of the most powerful people in the world. This is the power that technology can confer on the stochastically gifted.
+
+Our last era of technology was the age of information networks. The power of connected digital information created Google, Facebook, Amazon and Twitter among others. These companies and their leaders have had enormous impact on the world — the things we believe, the work we do, the way our institutions function.
+
+The era of machine learning and artificial intelligence is ahead of us, and if our current operating model persists, AI will confer even greater power on an even smaller, luckier group of leaders. We cannot afford for them to care as little for their impact on our collective well-being as Zuck and his enablers did. We need either better-informed collective governance or a greater ability to hold those with outsized power accountable for their actions and decisions.
+
+We should not rely on chance that those in control of AI will be the principled and courageous leaders we need. Though Meta was relatively late to the LLM-party, they are now using their substantial resources to catch up. Given their past actions it would be naive in the extreme to assume that Meta's open-source strategy to AI models is altruistic. They want to win. They want to own AI and the awesome power that machine intelligence confers. If we learn one thing from Wynn-Williams' courageous book, it should be that what is good for Meta is likely bad for the rest of us.
