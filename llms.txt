@@ -21,6 +21,14 @@ The site helps people understand and collaborate with machine intelligence. It c
 - [How AI Impacts Teams](https://rethinkingintelligence.ai/blog/2025/04/02/ai-impact-on-teams-mollick/): Research with 700+ professionals at Procter & Gamble shows AI teammates improve performance and the experience of working together.
 - [The Escalating Cost of Carelessness](https://rethinkingintelligence.ai/blog/2025/04/22/The-Escalating-Cost-of-Carelessness/): A review of Sarah Wynn-Williams' account of Facebook — a warning that careless leadership amplified by algorithms causes enormous damage, and AI will make that worse.
 
+## Full Text
+
+- [llms-full.txt](https://rethinkingintelligence.ai/llms-full.txt): Full text of all posts for LLM consumption.
+
+## Feeds
+
+- [feed.xml](https://rethinkingintelligence.ai/feed.xml): RSS/Atom feed with all posts.
+
 ## Sitemap
 
 - [sitemap.xml](https://rethinkingintelligence.ai/sitemap.xml)
